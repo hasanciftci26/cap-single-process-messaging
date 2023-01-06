@@ -1,0 +1,1 @@
+CAP Messaging with 2 different services runs in the same process (os process)

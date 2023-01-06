@@ -1,0 +1,9 @@
+###
+POST http://localhost:4004/msg-sender/Personnels
+Content-Type: application/json
+
+{
+    "personnelNo": 1,
+    "firstName": "Hasan",
+    "lastName": "Çiftçi"
+}
